@@ -32,7 +32,7 @@
                     
                     <!-- http或者https链接的ipa文件地址 -->
                     
-                    <string>http://x5.justep.com/apps/x5.ipa</string>
+                    <string>https://github.com/caizhaojin/TestDownloadApp/raw/master/Wesdomer.ipa</string>
                     
                 </dict>
                 
@@ -50,7 +50,7 @@
                     
                     <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
                     
-                    <string>http://x5.justep.com/apps/x5.png</string>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/56/09/d9/5609d9ed-1ead-8ab0-c2d5-48dc6b891da5/source/100x100bb.jpg</string>
                     
                 </dict>
                 
@@ -68,7 +68,7 @@
                     
                     <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
                     
-                    <string>http://x5.justep.com/apps/x5.png</string>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/56/09/d9/5609d9ed-1ead-8ab0-c2d5-48dc6b891da5/source/100x100bb.jpg</string>
                     
                 </dict>
                 
@@ -82,13 +82,13 @@
                 
                 <!-- BundleID，就是新建app时的包名 -->
                 
-                <string>com.justep.x5.demo</string>
+                <string>me.wesdom.oa</string>
                 
                 <key>bundle-version</key>
                 
                 <!-- 版本号 -->
                 
-                <string>5.3.2</string>
+                <string>2.7.1</string>
                 
                 <key>kind</key>
                 
@@ -98,7 +98,7 @@
                 
                 <!-- 安装app时的提示信息 -->
                 
-                <string>X5 App download</string>
+                <string>WesdomerDownload</string>
                 
             </dict>
             
