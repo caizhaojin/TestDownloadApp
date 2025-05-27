@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>应用更新</title>
+    <item>
+      <title>版本1.1.0</title>
+      <description>
+          
+      </description>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://yourdomain.com/downloads/YourApp_1.1.0.zip"
+        sparkle:version="1100"
+        sparkle:shortVersionString="1.1.0"
+        length="12345678"
+        type="application/octet-stream"
+        sparkle:edSignature="生成的签名"/>
+    </item>
+  </channel>
+</rss>
